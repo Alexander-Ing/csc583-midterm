@@ -1,6 +1,6 @@
 # Toro Net
 
-# HW2 Milestone Diagram (Midterm)
+# Milestone Diagram (Midterm)
 ![Milestone](milestone.PNG)
 
 ## Getting
