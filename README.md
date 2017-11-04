@@ -1,4 +1,8 @@
 # Toro Net
+
+# HW2 Milestone Diagram (Midterm)
+![Milestone](milestone.PNG)
+
 ## Getting
 Fork the repo then clone it to your local machine.
 ```
@@ -128,5 +132,4 @@ Continue with the [vagrant setup instructions](#vagrant-setup-instructions)
 
 ---
 
-# HW2 Milestone Diagram (Midterm)
-![HW2 Milestones](milestone.png)
+
